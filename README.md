@@ -6,7 +6,9 @@ I'm currently passionate about:
 - Compilers and software-hardware codesign
 - Full stack development and product design
 
-I'm currently a SWE at [Meta](https://about.meta.com/) based in London 🇬🇧.
+I'm currently a SWE at [Meta](https://about.meta.com/) based in London 🇬🇧. 
+
+I'm always happy to collaborate on interesting projects so feel free to reach out if you have something in mind!
 
 <!---
 adityagoel4512/adityagoel4512 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
